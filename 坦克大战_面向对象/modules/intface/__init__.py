@@ -1,0 +1,2 @@
+
+from modules.intface.gamestartface import gamestartface_init
